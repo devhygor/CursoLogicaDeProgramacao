@@ -1,6 +1,1 @@
-# Algoritmos e Lógica de Programação - Curso COMPLETO
-###### Professor Dr. Nelio Alves
-
-## Conheça nossos cursos:
-
-http://educandoweb.com.br/
+# Atividades realizadas durante o curso de Algoritmos e Lógica de Programação do professor: Nelio Alves
